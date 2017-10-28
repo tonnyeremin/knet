@@ -1,0 +1,5 @@
+D:\PersonalProjects\knet\Knet\Knet.Core\obj\Debug\Knet.Core.csproj.CoreCompileInputs.cache
+D:\PersonalProjects\knet\Knet\Knet.Core\bin\Debug\Knet.Core.dll
+D:\PersonalProjects\knet\Knet\Knet.Core\bin\Debug\Knet.Core.pdb
+D:\PersonalProjects\knet\Knet\Knet.Core\obj\Debug\Knet.Core.dll
+D:\PersonalProjects\knet\Knet\Knet.Core\obj\Debug\Knet.Core.pdb

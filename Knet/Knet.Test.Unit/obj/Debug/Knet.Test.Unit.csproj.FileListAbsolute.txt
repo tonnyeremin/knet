@@ -1,0 +1,6 @@
+D:\PersonalProjects\knet\Knet\Knet.Test.Unit\bin\Debug\Knet.Test.Unit.dll
+D:\PersonalProjects\knet\Knet\Knet.Test.Unit\bin\Debug\Knet.Test.Unit.pdb
+D:\PersonalProjects\knet\Knet\Knet.Test.Unit\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\PersonalProjects\knet\Knet\Knet.Test.Unit\obj\Debug\Knet.Test.Unit.csproj.CoreCompileInputs.cache
+D:\PersonalProjects\knet\Knet\Knet.Test.Unit\obj\Debug\Knet.Test.Unit.dll
+D:\PersonalProjects\knet\Knet\Knet.Test.Unit\obj\Debug\Knet.Test.Unit.pdb

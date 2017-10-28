@@ -1,0 +1,9 @@
+D:\PersonalProjects\knet\Knet\Knet.TestConsole\obj\Debug\Knet.Test.Console.csproj.CoreCompileInputs.cache
+D:\PersonalProjects\knet\Knet\Knet.TestConsole\bin\Debug\Knet.TestConsole.exe.config
+D:\PersonalProjects\knet\Knet\Knet.TestConsole\bin\Debug\Knet.TestConsole.exe
+D:\PersonalProjects\knet\Knet\Knet.TestConsole\bin\Debug\Knet.TestConsole.pdb
+D:\PersonalProjects\knet\Knet\Knet.TestConsole\bin\Debug\Knet.Core.dll
+D:\PersonalProjects\knet\Knet\Knet.TestConsole\bin\Debug\Knet.Core.pdb
+D:\PersonalProjects\knet\Knet\Knet.TestConsole\obj\Debug\Knet.Test.Console.csprojResolveAssemblyReference.cache
+D:\PersonalProjects\knet\Knet\Knet.TestConsole\obj\Debug\Knet.TestConsole.exe
+D:\PersonalProjects\knet\Knet\Knet.TestConsole\obj\Debug\Knet.TestConsole.pdb
