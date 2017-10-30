@@ -12,7 +12,7 @@ namespace Knet.TestConsole
         static void Main(string[] args)
         {
             CConfigurationParser parser = new CConfigurationParser();
-            parser.ParseForCurrentUser();
+          
         }
     }
 }
