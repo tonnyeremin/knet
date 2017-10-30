@@ -39,12 +39,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="Configuration\Configuration.cs" />
-    <Compile Include="Configuration\ConfigurationParser.cs" />
-    <Compile Include="Configuration\ConfigurationUtils.cs" />
-    <Compile Include="Configuration\CUserConfiguration.cs" />
+    <Compile Include="ConfigurationParser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Knet.Model\Knet.Model.csproj">
+      <Project>{57f7b107-1e52-4bef-a735-7ee5b4208045}</Project>
+      <Name>Knet.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -7,3 +7,15 @@ D:\PersonalProjects\knet\Knet\Knet.TestConsole\bin\Debug\Knet.Core.pdb
 D:\PersonalProjects\knet\Knet\Knet.TestConsole\obj\Debug\Knet.Test.Console.csprojResolveAssemblyReference.cache
 D:\PersonalProjects\knet\Knet\Knet.TestConsole\obj\Debug\Knet.TestConsole.exe
 D:\PersonalProjects\knet\Knet\Knet.TestConsole\obj\Debug\Knet.TestConsole.pdb
+C:\Pro\Git\knet\Knet\Knet.TestConsole\bin\Debug\Knet.TestConsole.exe.config
+C:\Pro\Git\knet\Knet\Knet.TestConsole\obj\Debug\Knet.TestConsole.exe
+C:\Pro\Git\knet\Knet\Knet.TestConsole\obj\Debug\Knet.TestConsole.pdb
+C:\Pro\Git\knet\Knet\Knet.TestConsole\bin\Debug\Knet.TestConsole.exe
+C:\Pro\Git\knet\Knet\Knet.TestConsole\bin\Debug\Knet.TestConsole.pdb
+C:\Pro\Git\knet\Knet\Knet.TestConsole\bin\Debug\Knet.Core.dll
+C:\Pro\Git\knet\Knet\Knet.TestConsole\bin\Debug\Knet.Core.pdb
+C:\Pro\Git\knet\Knet\Knet.TestConsole\obj\Debug\Knet.Test.Console.csprojResolveAssemblyReference.cache
+C:\Pro\Git\knet\Knet\Knet.TestConsole\bin\Debug\Knet.Model.dll
+C:\Pro\Git\knet\Knet\Knet.TestConsole\bin\Debug\YamlDotNet.dll
+C:\Pro\Git\knet\Knet\Knet.TestConsole\bin\Debug\Knet.Model.pdb
+C:\Pro\Git\knet\Knet\Knet.TestConsole\bin\Debug\YamlDotNet.xml

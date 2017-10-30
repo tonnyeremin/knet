@@ -50,8 +50,18 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ParseConfigFromFile.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Knet.Core\Knet.Core.csproj">
+      <Project>{ef790a1c-f3a4-44f1-884a-05b29402f855}</Project>
+      <Name>Knet.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Knet.Model\Knet.Model.csproj">
+      <Project>{57f7b107-1e52-4bef-a735-7ee5b4208045}</Project>
+      <Name>Knet.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

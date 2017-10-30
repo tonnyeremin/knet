@@ -1,0 +1,7 @@
+C:\Pro\Git\knet\Knet\Knet.Model\bin\Debug\Knet.Model.dll
+C:\Pro\Git\knet\Knet\Knet.Model\bin\Debug\Knet.Model.pdb
+C:\Pro\Git\knet\Knet\Knet.Model\bin\Debug\YamlDotNet.dll
+C:\Pro\Git\knet\Knet\Knet.Model\bin\Debug\YamlDotNet.xml
+C:\Pro\Git\knet\Knet\Knet.Model\obj\Debug\Knet.Model.csprojResolveAssemblyReference.cache
+C:\Pro\Git\knet\Knet\Knet.Model\obj\Debug\Knet.Model.dll
+C:\Pro\Git\knet\Knet\Knet.Model\obj\Debug\Knet.Model.pdb

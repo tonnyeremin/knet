@@ -1,5 +1,0 @@
-D:\PersonalProjects\knet\Knet\Knet.Api\bin\Debug\Knet.Api.dll
-D:\PersonalProjects\knet\Knet\Knet.Api\bin\Debug\Knet.Api.pdb
-D:\PersonalProjects\knet\Knet\Knet.Api\obj\Debug\Knet.Api.csproj.CoreCompileInputs.cache
-D:\PersonalProjects\knet\Knet\Knet.Api\obj\Debug\Knet.Api.dll
-D:\PersonalProjects\knet\Knet\Knet.Api\obj\Debug\Knet.Api.pdb

@@ -3,3 +3,12 @@ D:\PersonalProjects\knet\Knet\Knet.Core\bin\Debug\Knet.Core.dll
 D:\PersonalProjects\knet\Knet\Knet.Core\bin\Debug\Knet.Core.pdb
 D:\PersonalProjects\knet\Knet\Knet.Core\obj\Debug\Knet.Core.dll
 D:\PersonalProjects\knet\Knet\Knet.Core\obj\Debug\Knet.Core.pdb
+C:\Pro\Git\knet\Knet\Knet.Core\obj\Debug\Knet.Core.dll
+C:\Pro\Git\knet\Knet\Knet.Core\obj\Debug\Knet.Core.pdb
+C:\Pro\Git\knet\Knet\Knet.Core\bin\Debug\Knet.Core.dll
+C:\Pro\Git\knet\Knet\Knet.Core\bin\Debug\Knet.Core.pdb
+C:\Pro\Git\knet\Knet\Knet.Core\bin\Debug\Knet.Model.dll
+C:\Pro\Git\knet\Knet\Knet.Core\bin\Debug\YamlDotNet.dll
+C:\Pro\Git\knet\Knet\Knet.Core\bin\Debug\Knet.Model.pdb
+C:\Pro\Git\knet\Knet\Knet.Core\bin\Debug\YamlDotNet.xml
+C:\Pro\Git\knet\Knet\Knet.Core\obj\Debug\Knet.Core.csprojResolveAssemblyReference.cache
