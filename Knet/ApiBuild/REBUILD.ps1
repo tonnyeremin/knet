@@ -36,7 +36,7 @@ $autoRest = Get-Command -Name AutoRest
 Write-Host 'Generating C# api:' + $csharp_directory
 
 .$autoRest --input-file=swagger.json --csharp --output-folder=CSharp_Kubernetes --namespace=KuberentesService
-Write-Host "Fix paramеters namming issue at constructor Iok8sapiextensionsApiserverpkgapisapiextensionsv1beta1JSONSchemaProps.cs line 35. 
+Write-Host "KB: Fix paramеters namming issue at constructor Iok8sapiextensionsApiserverpkgapisapiextensionsv1beta1JSONSchemaProps.cs line 35. 
 (ex: Change ref to _ref). Then press any key."
 
 Read-Host
