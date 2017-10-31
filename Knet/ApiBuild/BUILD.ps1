@@ -18,7 +18,24 @@ $csharp_directory = Join-Path  -Path $PSScriptRoot  -ChildPath 'CSharp_Kubernete
 $swaggerfile = Join-Path  -Path $PSScriptRoot -ChildPath 'swagger.json'
 $dllfile = Join-Path  -Path $PSScriptRoot -ChildPath 'KuberentesService.dll'
 
+Write-Host "Installing Microsoft.Net.Compilers if needed"
 Install-Package -Name Microsoft.Net.Compilers -Source https://www.nuget.org/api/v2 -Scope CurrentUser
+
+Write-Host "Getting nuget.exe"
+$sourceNugetExe = "https://dist.nuget.org/win-x86-commandline/latest/nuget.exe"
+$targetNugetExe = "$PSScriptRoot\nuget.exe"
+
+Invoke-WebRequest $sourceNugetExe -OutFile $targetNugetExe
+
+Write-Host "Installing Newtonsoft.Json"
+
+.$targetNugetExe install "Newtonsoft.Json" -OutputDirectory $PSScriptRoot
+
+Write-Host "Installing Microsoft.Rest.ClientRuntime"
+
+.$targetNugetExe install "Microsoft.Rest.ClientRuntime" -OutputDirectory $PSScriptRoot
+
+
 
 $package = Get-Package -Name Microsoft.Net.Compilers
 $env:path += ";$(Split-Path $package.Source -Parent)\tools"
@@ -26,8 +43,10 @@ $csc = Get-Command -Name CSC.exe
 
 
 Write-Host 'Building .Net library...'
-.$csc /target:library /out:$dllfile /recurse:$csharp_directory\*.cs 
 
+$jsonLib = "$PSScriptRoot\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll"
+$restLib = "$PSScriptRoot\Microsoft.Rest.ClientRuntime.3.0.3\lib\net45\Microsoft.Rest.ClientRuntime.dll"
+.$csc /platform:x64 /r:$jsonLib,$restLib /target:library /out:$dllfile /recurse:$csharp_directory\*.cs 
 
 Read-Host
 
